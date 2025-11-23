@@ -6,9 +6,8 @@ My personal projects explore how computing works beneath the abstractions.
 ## 🎯 What Drives Me
 
 I’m motivated by understanding, clarity, and simplicity.
-I find it deeply satisfying reducing complex concepts down to their essentials.
 
-I enjoy understanding systems at a deeper level, not just how to use them, but how they truly work.
+I find it deeply satisfying to reduce complex concepts to their essentials. I enjoy understanding systems deeply to see how they truly work.
 
 ## 🛠 Languages
 
@@ -22,5 +21,7 @@ I enjoy understanding systems at a deeper level, not just how to use them, but h
 ## 🔗 Links
 
 - **LinkedIn:** https://linkedin.com/in/mahmoud-hosam
+- **GitHub:** https://github.com/MahmoudHosamGaber  
+
 
 Always open to conversations about systems programming, backend infrastructure, or tackling challenging technical problems.
